@@ -19,6 +19,12 @@ p {
   line-height: 2rem;
 }
 
+.bread-desc {
+  font-style: italic;
+  font-weight: bold;
+  font-size: large;
+}
+
 .sidenav-trigger {
   color: #26a69a;
 }
